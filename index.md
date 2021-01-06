@@ -40,7 +40,6 @@ as well as ```quoting inline```
 
 ### Links:
 This is the [link](https://elliscchang.github.io/elliscchang.github.io-cse110-lab1/) to this github page
-This is to go to the [top](#ellis-chang's-user-page)
 
 ### Lists & Tasks
 - bulleted list 
