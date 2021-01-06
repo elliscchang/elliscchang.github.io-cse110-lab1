@@ -35,8 +35,8 @@ github
 as well as ```quoting inline```
 
 ### Screenshots:
-![Screenshot 1](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/elliscchang-part3/Capture2.PNG)
-![Screenshot 2](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/elliscchang-part3/Capture3.PNG)
+![Screenshot 1](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/gh-pages/Capture2.PNG)
+![Screenshot 2](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/gh-pages/Capture3.PNG)
 
 ### Links:
 This is the [link](https://elliscchang.github.io/elliscchang.github.io-cse110-lab1/) to this github page
