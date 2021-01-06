@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Ellis Chang's User Page
+My favorite programming language is Python
 
-You can use the [editor on GitHub](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Markdown Constructs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+### Headings
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
-- Bulleted
-- List
+### Styling
+**This is bold text**
 
-1. Numbered
-2. List
+*This is italicized text*
 
-**Bold** and _Italic_ and `Code` text
+~~This is strikethrough text~~
 
-[Link](url) and ![Image](src)
+**This is bold and _italicized_ text**
+
+***This is all bold and italicized text***
+
+### Quoting
+This is an example
+> of quoting a text in github
+
+And this is an example of
 ```
+quoting code 
+in 
+github
+```
+as well as ```quoting inline```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Screenshots:
+![Screenshot 1](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/elliscchang-part3/Capture2.PNG)
+![Screenshot 2](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/blob/elliscchang-part3/Capture3.PNG)
 
-### Jekyll Themes
+### Links:
+This is the [link](https://elliscchang.github.io/elliscchang.github.io-cse110-lab1/) to this github page
+This is to go to the [top](#ellis-chang's-user-page)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliscchang/elliscchang.github.io-cse110-lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Lists & Tasks
+- bulleted list 
+- using hyphen or \-
+* bulleted list
+* using asterisk or \*
 
-### Support or Contact
+1. This
+   - is a
+     - nested list
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [ ] Part 1 - VScode & extensions
+- [x] Part 2 - git command line and VS source control
+- [x] Part 3 - github pages
+
+### Emojis and Mentions
+@elliscchang :+1: This is a mention and an emoji! :shipit:
